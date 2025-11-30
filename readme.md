@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Smart Task Analyzer  
 A full-stack decision-support tool that intelligently ranks tasks based on urgency, importance, effort, and dependency impact.  
 This project includes a **Django REST backend** for scoring and a **React + Tailwind CSS frontend** for interactive visualization.
