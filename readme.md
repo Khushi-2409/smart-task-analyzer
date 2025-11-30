@@ -241,10 +241,8 @@ Smart-Task-Analyzer/
 
 Add them like:
 
-```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e551b75a-0b97-40d3-9e78-62fd23a5e8a1" />
 
-```
 
 ---
 
